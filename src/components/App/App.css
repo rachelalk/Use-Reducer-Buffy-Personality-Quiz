@@ -1,0 +1,30 @@
+.app {
+	width: 100vw;
+	height: 100vh;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url("https://ih1.redbubble.net/image.1046453309.4825/flat,750x1000,075,f.u1.jpg");
+}
+
+.page {
+	display: flex;
+	background-color: rgb(56, 5, 56);
+	width: 60vw;
+	height: 90vh;
+	margin: auto;
+	color: aliceblue;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+button {
+	margin: 20px;
+}
+
+.buffyLogo {
+  margin-top: 300px;
+}
