@@ -2,7 +2,7 @@ During this task we were given some code and asked to refactor it using useReduc
 
 This was tricky but we managed to do it in a reasonable amount of time.
 
-View the live app here <a href="https://buffy-quiz.netlify.app/" /a>
+View the live app <a href="https://buffy-quiz.netlify.app/">here</a>
 
 The task instructions:
 
