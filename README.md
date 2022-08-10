@@ -1,9 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8015602&assignment_repo_type=AssignmentRepo)
-# Build a personality quiz with useReducer
+During this task we were given some code and asked to refactor it using useReducer.
 
-It's time to unleash your inner teenager and create a personality quiz, using the `useReducer` hook to keep track of the responses to each question so you can calculate the results at the end.
+This was tricky but we managed to do it in a reasonable amount of time.
 
-To see a visual about how the reducer for your quiz will work, see the [diagram here](https://www.canva.com/design/DAENwJNdEC0/GIou8tOfGdXoUHyxn-PTYQ/view?utm_content=DAENwJNdEC0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+View the live app here <a href="https://buffy-quiz.netlify.app/" </a>
+
+The task instructions:
 
 1.  In [index.js](src/components/App/index.js), outside of the `App` component, create a constant called `initialState` containing `{ quizResults: [] }` (which will later be used with `useReducer`).
 
